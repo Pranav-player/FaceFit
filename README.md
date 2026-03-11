@@ -1,5 +1,5 @@
 
-# FaceFit AR 🎭
+# FaceFit AR
 
 FaceFit AR is a native iOS application that applies real-time face filters using the device camera. The application detects faces and overlays visual elements such as ears, glasses, crowns, and masks on the detected face in real time.
 
@@ -89,3 +89,8 @@ FaceFit.xcodeproj
 4. The selected filter is rendered on top of the detected face.
 
 ---
+## Screenshots
+
+### Login Screen
+
+![Login Screen](Screenshots/login-screen.png)
