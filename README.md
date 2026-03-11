@@ -1,6 +1,3 @@
-Here is a **clean professional README for your GitHub repo** (you can copy-paste into `README.md`).
-
----
 
 # FaceFit AR 🎭
 
